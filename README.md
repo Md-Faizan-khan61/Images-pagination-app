@@ -62,7 +62,7 @@ This will run the app in the development mode. Open [http://localhost:3000](http
 - React.js
 - JavaScript (ES6+)
 - CSS (or styled-components, if applicable)
-- [Any additional libraries or frameworks you used]
+  
 
 ## Contributing
 
